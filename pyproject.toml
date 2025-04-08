@@ -1,0 +1,13 @@
+[project]
+name = "streamlit-alunos"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.37.29",
+    "crewai>=0.108.0",
+    "crewai-tools>=0.40.0",
+    "dotenv>=0.9.9",
+    "streamlit>=1.44.1",
+]
